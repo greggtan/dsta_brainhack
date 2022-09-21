@@ -1,0 +1,47 @@
+{
+  "name": "hackathon",
+  "version": "0.0.1",
+  "description": "Our app helps users make more informed choices and take charge of their own safety",
+  "productName": "On The Move SG",
+  "author": "Greg G Tan",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@pqina/flip": "^1.7.7",
+    "@quasar/extras": "^1.0.0",
+    "apify-client": "^1.2.4",
+    "axios": "^0.21.1",
+    "chart.js": "^3.3.2",
+    "chartist": "^0.11.4",
+    "core-js": "^3.6.5",
+    "firebase": "^8.6.7",
+    "fusioncharts": "^3.17.0",
+    "quasar": "^1.0.0",
+    "quasar-components-chart": "^0.1.7",
+    "util": "^0.12.4",
+    "vue-chartjs": "^3.5.1",
+    "vue-chartkick": "^1.1.0",
+    "vue-fusioncharts": "^3.1.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

@@ -1,0 +1,20 @@
+// app global css in SCSS form
+*{
+    font-family: 'Montserrat', sans-serif;
+    
+}   
+
+body{
+    background-color: rgb(249, 249, 249);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.xScroll {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+.sourceSerif{
+    font-family: 'Source Serif Pro', serif;
+}
